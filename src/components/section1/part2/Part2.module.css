@@ -1,0 +1,19 @@
+
+.img1{
+    position: absolute;
+    
+    float: right;
+    width: 60%;
+    z-index: -1;
+    right: 0;
+    top: 0;
+    
+
+}
+.img2{
+    position: absolute;
+    float: right;
+    width: 40%;
+    right: 0;
+    z-index: -1;
+}

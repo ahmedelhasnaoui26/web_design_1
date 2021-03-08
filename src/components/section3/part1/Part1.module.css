@@ -1,0 +1,9 @@
+.img{
+    position: absolute;
+    float: left;
+    left: 0;
+    width: 480px;
+    height: 315px;
+    padding: 0 0 0 140px;
+    z-index: -1;
+}

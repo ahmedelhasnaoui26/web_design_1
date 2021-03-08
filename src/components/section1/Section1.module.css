@@ -1,0 +1,11 @@
+.div{
+    display: flex;
+    
+}
+.img{
+    position: absolute;
+    margin: -55px -431.5px;
+    width: 800px;
+    z-index: -1;
+
+}
